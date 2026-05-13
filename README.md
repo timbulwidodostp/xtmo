@@ -1,6 +1,8 @@
 # xtmo
 Mean Observation Ordinary Least Squared (OLS) (MO-OLS) Use xtmo With STATA 19
 
+https://www.youtube.com/watch?v=rhzs_MVBZsg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
